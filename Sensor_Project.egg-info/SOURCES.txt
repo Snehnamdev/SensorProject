@@ -1,0 +1,5 @@
+setup.py
+Sensor_Project.egg-info/PKG-INFO
+Sensor_Project.egg-info/SOURCES.txt
+Sensor_Project.egg-info/dependency_links.txt
+Sensor_Project.egg-info/top_level.txt
